@@ -275,7 +275,9 @@ a {
   .block-create {
     padding-left: 30px;
   }
-
+  .create__title {
+    font-size: 18px;
+  }
   .create__subtitle {
     font-size: 24px;
   }
